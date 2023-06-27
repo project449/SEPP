@@ -1,0 +1,43 @@
+Select team managed project
+->create
+->project summary:epic
+go to apps to install zypher scale
+
+Explore more apps: this step is only when zypher scale is not installed
+
+zypher scale->test management for jira
+download
+
+after completion it will be added to apps list 
+
+go to backlog and select a sprint
+for which you want to write testcase
+
+unable zypher scale before selecting backlog
+
+create new testcase
+
+add name and go to test script
+
+write steps,testdata and expected outcome and save it
+
+when you click zypher scale the test cases will be displayed
+
+go to test cycle and add a new test cycle
+attach the created test cycle
+
+select it and click run
+
+Start the time so that the time taken can be calculated
+
+in the test script area select pass,fail or block to generate report
+
+enter the actual report also to display it in the report
+
+if any bugs are generated raise the issue in issues box select bug not epic
+
+to generate test report -> go to zypher scale-> reports ->traceability
+->traceability report->all test execution
+Generate
+
+in the same way create all the test cases related to a module and add it to test cycle generate test reports
